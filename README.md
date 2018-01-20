@@ -2,8 +2,7 @@
 
 A quick React + Parcel project generator.
 
-## Why?
-Because, [![React](https://img.ziggi.org/ODwlkESI.png)](#) + [![Parcel](https://parceljs.org/assets/parcel.png)](#) = :heart:
+## Why? Because, [![React](https://img.ziggi.org/ODwlkESI.png)](#) + [![Parcel](https://parceljs.org/assets/parcel.png)](#) = :heart:
 
 ## USAGE
 
