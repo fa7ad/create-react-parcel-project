@@ -1,6 +1,6 @@
 {
   "name": "create-react-parcel-project",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Create a new React project using Parcel bundler",
   "main": "main.js",
   "repository": "git@github.com:fa7ad/create-react-parcel-project.git",
