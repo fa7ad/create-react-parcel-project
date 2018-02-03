@@ -18,13 +18,22 @@ $ yarn global add create-react-parcel-project
 ```
 
 
-Run it:
+Create a new project:
 ```
 $ crpp hello-world
 ```
 or
 ```
 $ create-react-parcel-project hello-world
+```
+**TypeScript**:
+```
+$ crpp --ts hello, microsoft
+```
+
+**View Usage info**
+```
+$ crpp --help
 ```
 
 # Thats it! :rocket:
