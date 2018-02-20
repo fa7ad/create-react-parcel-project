@@ -28,7 +28,7 @@ $ create-react-parcel-project hello-world
 ```
 **TypeScript**:
 ```
-$ crpp --ts hello, microsoft
+$ crpp --ts hello-microsoft
 ```
 
 **View Usage info**
