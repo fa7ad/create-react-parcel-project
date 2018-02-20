@@ -1,15 +1,16 @@
-import * as React from 'react'
-import * as ReactDOM from 'react-dom'
+import * as React from "react";
+import * as ReactDOM from "react-dom";
 
-import './index.css'
-import App from './App'
+import App from "./App";
+import "./index.css";
 
-const render = () :void => {
-  ReactDOM.render(<App />, document.getElementById('root') as HTMLElement)
-}
+const render = (Com: React.ComponentClass): any =>
+  ReactDOM.render(<Com />, document.getElementById("root") as HTMLElement);
+
+declare var module: any;
 
 if (module && module.hot) {
-  module.hot.accept(render)
+  module.hot.accept(render.bind(null, App));
 }
 
-render()
+render(App);
