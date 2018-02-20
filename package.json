@@ -1,6 +1,6 @@
 {
   "name": "create-react-parcel-project",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "description": "Create a new React project using Parcel bundler",
   "repository": {
     "url": "fa7ad/create-react-parcel-project",
