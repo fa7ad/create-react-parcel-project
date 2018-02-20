@@ -16,7 +16,7 @@ cli
     const targetPath = path.resolve(args[0] || '.')
     console.log(`Creating a new React app in ${chalk.green(targetPath)}.`)
     return sao({
-      template: `github:fa7ad/react-parcel-project#${ts ? 'typescript' : 'master'}`,
+      template: path.resolve(__dirname, ts ? 'typescript' : 'master'),
       targetPath
     })
   })

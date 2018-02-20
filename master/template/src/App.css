@@ -1,0 +1,27 @@
+.App{
+  min-width: 320px;
+  color: #fff;
+  grid-area: 2/2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.App button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  background-color: #f12;
+  outline: none;
+  opacity: 1;
+}
+
+
+.App button:hover {
+  background-color: #f33;
+}
+
+.App button:active {
+  opacity: 0.7;
+}

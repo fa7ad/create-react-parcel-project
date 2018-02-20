@@ -21,7 +21,7 @@ module.exports = {
     console.log(`  ${chalk.cyan('yarn build')}`)
     console.log('    Bundles the app into static files for production.\n')
     console.log('\nWe suggest that you begin by typing:\n')
-    console.log(`  ${chalk.cyan('cd')} xxx`)
+    console.log(`  ${chalk.cyan('cd')} ${folderPath}`)
     console.log(`  ${chalk.cyan('yarn start')}`)
     console.log()
   }
