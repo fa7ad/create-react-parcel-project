@@ -1,6 +1,6 @@
 {
   "name": "create-react-parcel-project",
-  "version": "3.0.0",
+  "version": "3.0.2",
   "description": "Create a new React project using Parcel bundler",
   "repository": {
     "url": "fa7ad/create-react-parcel-project",
@@ -10,11 +10,6 @@
     "create-react-parcel-project": "cli.js",
     "crpp": "cli.js"
   },
-  "files": [
-    "sao.js",
-    "cli.js",
-    "README.md"
-  ],
   "scripts": {
     "test": "npm run lint",
     "lint": "standard"
