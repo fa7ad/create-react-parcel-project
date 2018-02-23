@@ -1,4 +1,4 @@
-# create-react-parcel-project
+# create-react-parcel-project [![npm version](https://badge.fury.io/js/create-react-parcel-project.svg)](https://badge.fury.io/js/create-react-parcel-project)
 
 A quick React + Parcel project generator.
 
@@ -36,4 +36,10 @@ $ crpp --ts hello-microsoft
 $ crpp --help
 ```
 
-# Thats it! :rocket:
+**Thats it! :rocket:**
+
+---
+
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source-200x33.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+[![JavaScript Style Guide](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
