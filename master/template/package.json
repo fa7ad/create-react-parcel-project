@@ -1,5 +1,5 @@
 {
-  "name": "react-parcel-boilerplate",
+  "name": "<%= _.folderName %>",
   "version": "1.0.0",
   "description": "React boilerplate using parcel",
   "main": "index.html",
