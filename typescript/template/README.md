@@ -1,4 +1,4 @@
-# react-parcel-project
+# <%= _.folderName %>
 
 This project was bootstrapped using [create-react-parcel-project](https://github.com/fa7ad/create-react-parcel-project).
 
