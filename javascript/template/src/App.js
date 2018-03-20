@@ -4,7 +4,7 @@ import './App.css'
 const randomColorHex = () => {
   const rand = max => Math.floor(Math.random() * max)
   const color = (rand(255) << 16) + (rand(255) << 8) + rand(255)
-  return '#' + `000000${color}`.slice(-6)
+  return '#' + `000000${color.toString(16)}`.slice(-6)
 }
 
 class App extends React.PureComponent {
