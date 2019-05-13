@@ -17,7 +17,7 @@
   "author": "Fahad Hossain <8bit.demoncoder@gmail.com> (https://fa7ad.github.io/)",
   "license": "MIT",
   "dependencies": {
-    "cac": "^4.0.0",
+    "cac": "^6.0.0",
     "chalk": "^2.3.0",
     "sao": "^0.22.11",
     "update-notifier": "^3.0.0"

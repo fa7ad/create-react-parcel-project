@@ -298,7 +298,7 @@ cac@^3.0.3:
     suffix "^0.1.0"
     text-table "^0.2.0"
 
-cac@^4.0.0, cac@^4.3.4:
+cac@^4.3.4:
   version "4.4.1"
   resolved "https://registry.yarnpkg.com/cac/-/cac-4.4.1.tgz#c6867f731c4be7b0c270689d1689400b914c7788"
   dependencies:
@@ -308,6 +308,10 @@ cac@^4.0.0, cac@^4.3.4:
     redent "^2.0.0"
     string-width "^2.1.1"
     text-table "^0.2.0"
+
+cac@^6.0.0:
+  version "6.5.1"
+  resolved "https://registry.yarnpkg.com/cac/-/cac-6.5.1.tgz#c5685ebc20a8448558191d70a2a76636640308a0"
 
 cacheable-request@^6.0.0:
   version "6.0.0"
