@@ -19,7 +19,7 @@
   "dependencies": {
     "cac": "^6.5.2",
     "chalk": "^2.3.0",
-    "sao": "^0.22.11",
+    "sao": "^1.6.1",
     "update-notifier": "^3.0.0"
   },
   "devDependencies": {
