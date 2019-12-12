@@ -20,7 +20,7 @@
     "cac": "^6.5.2",
     "chalk": "^3.0.0",
     "sao": "^1.6.1",
-    "update-notifier": "^3.0.0"
+    "update-notifier": "^4.0.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.0",
