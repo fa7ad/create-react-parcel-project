@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "cac": "^6.5.2",
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "sao": "^1.6.1",
     "update-notifier": "^4.0.0"
   },
